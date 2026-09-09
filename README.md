@@ -9,3 +9,4 @@
 ### Authors
 - Finnian Fenech
 - Joshua Ntakrah
+- Rowan Markou-Heppell
