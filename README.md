@@ -8,3 +8,4 @@
 
 ### Authors
 - Finnian Fenech
+- Joshua Ntakrah
