@@ -7,3 +7,4 @@
 ## Usage 
 
 ### Authors
+- Finnian Fenech
